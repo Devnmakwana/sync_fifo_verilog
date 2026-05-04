@@ -332,9 +332,8 @@ SCENARIO 3
 ## 📈 GTKWave Waveform
 
 > Waveform Simulation Output
+> (images/<img width="1600" height="996" alt="WhatsApp Image 2026-05-02 at 21 59 00" src="https://github.com/user-attachments/assets/6453fd9f-c2ac-40b9-bed8-e54f0bd27e47" />
 
-![GTKWave Waveform](images/<img width="1600" height="996" alt="WhatsApp Image 2026-05-02 at 21 59 00" src="https://github.com/user-attachments/assets/6453fd9f-c2ac-40b9-bed8-e54f0bd27e47" />
-)
 
 ### Waveform Signal Analysis
 
